@@ -1,6 +1,6 @@
 # 🧪 ATOM Project — Scientific Research in Robotics & Computer Vision
 
-🌎 Language: English | [Português](README.pt-BR.md)
+🌎 Language: English | [Português](readme.pt-BR.md)
 
 Welcome to the official repository of the **ATOM Project**, a scientific research initiative focused on the development of a **computer vision–driven mechatronic system** for robotic manipulation.
 
