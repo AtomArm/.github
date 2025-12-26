@@ -8,12 +8,15 @@ All images are organized by subsystem and development stage.
 ### Team
 
 <p align="center">
+
+  <img src="team/cc.png" width="920">
   <img src="team/connectComp.png" width="920">
   <img src="team/FirstCrewMeeting.jpg" width="920">
   <img src="team/pedroandenzo.png" width="920">
   <img src="team/precc.png" width="920">
   <img src="team/precc2.png" width="920">
   <img src="team/precc3.png" width="920">
+
 </p>
 
 ---
