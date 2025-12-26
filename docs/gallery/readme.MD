@@ -49,11 +49,3 @@ All images are organized by subsystem and development stage.
 </p>
 
 ---
-
-## 🧪 Experiments
-
-<p align="center">
-  <img src="experiments/pick_and_place_test.jpg" width="420">
-</p>
-
-Initial pick-and-place experiments and motion validation.
