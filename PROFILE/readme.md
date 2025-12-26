@@ -1,73 +1,87 @@
-# 🧪 Scientific Research – ATOM Project
+# 🧪 ATOM Project — Scientific Research in Robotics & Computer Vision
 
-Welcome to the official repository of the **ATOM Project**, a scientific research initiative dedicated to building a computer vision-based mechatronic system.
+🌎 Language: English | [Português](README.pt-BR.md)
+
+Welcome to the official repository of the **ATOM Project**, a scientific research initiative focused on the development of a **computer vision–driven mechatronic system** for robotic manipulation.
 
 <p align="center">
-  <img src="/PROFILE/ATOM_PROJECT_LOGO.png" alt="ATOM Project Logo" width="200">
+  <img src="ATOM_PROJECT_LOGO.png" alt="ATOM Project Logo" width="500">
 </p>
 
 ---
 
 ## 🔍 Project Overview
 
-The **ATOM Project** aims to develop a functional robotic arm using 3D printing technology and controlled through computer vision. The project is **inspired by the open-source [InMoov Project](http://www.inmoov.fr/)**, created by Gaël Langevin, and adapts its components to serve academic and experimental goals.
+The **ATOM Project** investigates the integration of **computer vision, robotics, and digital manufacturing** through the construction of a functional robotic arm. The system is manufactured using **3D printing** and controlled via **vision-based algorithms**, serving both educational and experimental purposes.
 
-Designed and led by Computer Science student **Enzo R. L. D. Ribas**, this project integrates knowledge across mechanics, electronics, and software engineering. It offers a hands-on learning experience while fostering innovation in automation and assistive technology.
+The project is **inspired by the open-source [InMoov Project](http://www.inmoov.fr/)**, created by Gaël Langevin. While leveraging its modular mechanical concepts, ATOM adapts and redesigns components to meet academic research goals and to explore alternative control strategies based on artificial intelligence.
 
-The robotic arm prototype is operated via a camera system, which interprets visual cues using artificial intelligence. These inputs are then translated into precise movements controlled by servo motors. The system uses:
-
-- **OpenCV** for computer vision and gesture tracking  
-- **Arduino** for servo motor control  
-- **3D-printed parts** based on STL files, adapted from InMoov's modular designs  
-
-The project serves as a foundation for further academic research and has the potential to evolve into assistive technologies or smart automation tools.
+Designed and led by **Enzo Rocha Leite Diniz Ribas**, a Computer Science student, the project emphasizes interdisciplinary development across **mechanics, electronics, and software engineering**. Beyond building a functional prototype, ATOM aims to establish a **research platform** for experimentation in automation, human–machine interaction, and assistive technologies.
 
 ---
 
-## 🚀 Technologies Used
+### [Meet the Team](../docs/members/members.MD)  
 
-- **Arduino UNO**  
-- **Python 3**  
-- **OpenCV (Computer Vision)**  
-- **3D Modeling (STL format)**  
-- **3D Printing (FDM)**  
-- **Git & GitHub for version control**
+<!-- ## 📄 Scientific Articles and Documents
 
----
+The theoretical foundation, system architecture, and experimental proposal of the ATOM Project are formally described in the following research documents:
 
-## 📚 Learning Goals
+📘 **ATOM Project — Vision-Based Robotic Manipulation for Educational and Experimental Applications**  
+📎 PDF: [docs/articles/ATOM_Project_Article.pdf](docs/articles/ATOM_Project_Article.pdf)
 
-- Develop and apply knowledge in computer vision and robotics  
-- Work with open-source mechanical designs (InMoov)  
-- Build skills in teamwork, prototyping, and iterative development  
-- Explore practical use cases in automation and accessibility
+This article contextualizes the project within current research in robotics and intelligent systems and serves as a reference for academic evaluation and future extensions.
 
----
+--- -->
 
-## 📜 License
+## 🎯 Research and Learning Objectives
 
-This project is intended **solely for academic purposes** and is **not for commercial use**.  
-All content and contributions must adhere to ethical, privacy, and social responsibility standards.
+The ATOM Project aims to:
+
+- Apply computer vision techniques to real-world robotic systems  
+- Explore open-source mechanical designs within an academic research context  
+- Develop practical skills in robotics, automation, and embedded systems  
+- Encourage iterative prototyping and experimental validation  
+- Serve as a foundation for future research in assistive and intelligent systems  
 
 ---
 
-## 🤝 How to Contribute
+## 🖼️ Project Gallery
 
-We welcome collaboration! If you're interested in contributing:
+Images, diagrams, and development records of the ATOM Project are available in the project gallery:
+
+📷 Gallery: [docs/gallery/](../docs/gallery/readme.MD)
+
+This folder contains photographs of prototypes, 3D-printed components, and experimental setups.
+
+---
+
+## 📜 License and Usage
+
+This project is intended **exclusively for academic and educational purposes**.  
+Commercial use is not permitted.
+
+All contributions and developments must comply with ethical standards, data privacy principles, and social responsibility guidelines.
+
+---
+
+## 🤝 Contributions
+
+Academic collaboration is welcome. To contribute:
 
 1. Fork this repository  
-2. Follow our [Contribution Guidelines](CONTRIBUTING.md)  
-3. Submit a Pull Request with a clear description of your changes
+2. Follow the guidelines described in `CONTRIBUTING.md`  
+3. Submit a Pull Request with a clear technical description of your changes  
 
 ---
 
 ## 📬 Contact
 
-For questions, suggestions, or academic collaborations:  
+For academic inquiries, suggestions, or collaboration proposals:
+
 **Enzo Rocha Leite Diniz Ribas**  
-[LinkedIn Profile](https://www.linkedin.com/in/oenzoribas)
+🔗 [LinkedIn](https://www.linkedin.com/in/oenzoribas)
 
 ---
 
-> _“Technology should serve people—and learning should be its driving force.”_  
-> — ATOM Project Team
+> _“Technology exists to extend human capability — research exists to understand how.”_  
+> **ATOM Project**
