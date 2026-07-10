@@ -1,9 +1,9 @@
 # 🤖 The ATOM Team
 
 > Eduardo M. do Amaral
+> ![alt text](image.png)
 
 <p align="center">
-  <img src="eduardo/eduardo.png" width="400">
   <br>
   Eduardo M. do Amaral
 
@@ -119,7 +119,6 @@ João Augusto V. Ramalho
 
 - [Yasmin's LinkedIn](https://www.linkedin.com/in/)
 - [Yasmin's GitHub](https://github.com/)
-
 
 > Guilherme
 
