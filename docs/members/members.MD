@@ -20,20 +20,6 @@
   Enzo R. L. D. Ribas — Project Idealizer and Lead Researcher
 </p>
 
-> Guilherme
-
-<p align="center">
-  <img src="guilherme/guilherme.png" width="400">
-  <br>
-  Guilherme
-
-</p>
-
-- [Guilherme's LinkedIn](https://www.linkedin.com/in//)
-- [Guilherme's GitHub](https://github.com/)
-
-</p>
-
 - [Enzo's LinkedIn](https://www.linkedin.com/in/oenzoribas/)
 - [Enzo's GitHub](https://github.com/oenzoribas)
 
@@ -108,6 +94,20 @@ João Augusto V. Ramalho
 - [Rafael's LinkedIn](https://www.linkedin.com/in/rafaeldeandradealves/)
 - [GitHub](https://github.com/Rafaaalvess)
 
+> Carlos Eduardo L. Caetano
+
+<p align="center">
+  <img src="carlos_eduardo/carlos_eduardo.png" width="400">
+  <br>
+  Carlos Eduardo L. Caetano
+
+</p>
+  
+  - [Carlos' LinkedIn](https://www.linkedin.com/in/carlosccaetano/)
+  - [Carlos' GitHub](https://github.com/Carlos-ccaetano)
+
+# Former members:
+
 > Yasmin
 
 <p align="center">
@@ -120,19 +120,20 @@ João Augusto V. Ramalho
 - [Yasmin's LinkedIn](https://www.linkedin.com/in/)
 - [Yasmin's GitHub](https://github.com/)
 
-# Former members:
 
-> Carlos Eduardo L. Caetano
+> Guilherme
 
 <p align="center">
-  <img src="carlos_eduardo/carlos_eduardo.png" width="400">
+  <img src="guilherme/guilherme.png" width="400">
   <br>
-  Carlos Eduardo L. Caetano
+  Guilherme
 
 </p>
-  
-  - [Carlos' LinkedIn](https://www.linkedin.com/in/carlosccaetano/)
-  - [Carlos' GitHub](https://github.com/Carlos-ccaetano)
+
+- [Guilherme's LinkedIn](https://www.linkedin.com/in//)
+- [Guilherme's GitHub](https://github.com/)
+
+</p>
 
 > Nicolas Garcia
 
