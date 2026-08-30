@@ -1,88 +1,161 @@
-# 🧪 Projeto ATOM — Pesquisa Científica em Robótica e Visão Computacional
+# 🧪 ATOM Laboratory
 
-🌎 Idioma: Português (Brasil) | [English](README.md)
+🌎 Idioma: [English](README.md) | Português
 
+Bem-vindo à organização oficial do **ATOM Laboratory** no GitHub.
 
-Bem-vindo ao repositório oficial do **Projeto ATOM**, uma iniciativa de pesquisa científica focada no desenvolvimento de um **sistema mecatrônico guiado por visão computacional** para manipulação robótica.
+O ATOM Laboratory é uma iniciativa de pesquisa e desenvolvimento focada na interseção entre **robótica, visão computacional, inteligência artificial, engenharia de software, eletrônica e engenharia mecânica**.
+
+O laboratório desenvolve projetos independentes, plataformas experimentais e atividades de pesquisa que exploram a integração dessas áreas em sistemas reais.
 
 <p align="center">
-  <img src="ATOM_PROJECT_LOGO.png" alt="Logo do Projeto ATOM" width="500">
+  <img src="ATOM_PROJECT_LOGO.png" alt="ATOM Laboratory Logo" width="500">
 </p>
 
 ---
 
-## 🔍 Visão Geral do Projeto
+## 🔬 Sobre o ATOM Laboratory
 
-O **Projeto ATOM** investiga a integração de **visão computacional, robótica e manufatura digital** por meio da construção de um braço robótico funcional. O sistema é fabricado com **impressão 3D** e controlado por **algoritmos baseados em visão**, atendendo a fins educacionais e experimentais.
+O **ATOM Laboratory** funciona como a organização que reúne os projetos de pesquisa e desenvolvimento do ATOM.
 
-O projeto é **inspirado no [InMoov Project](http://www.inmoov.fr/)**, criado por Gaël Langevin. Aproveitando seus conceitos mecânicos modulares, o ATOM adapta e redesenha componentes para atender objetivos de pesquisa acadêmica e explorar estratégias alternativas de controle baseadas em inteligência artificial.
+Em vez de representar um único repositório de software ou um único sistema, o laboratório fornece um ambiente comum para desenvolvimento, experimentação e documentação de projetos multidisciplinares.
 
-Idealizado e conduzido por **Enzo Rocha Leite Diniz Ribas**, estudante de Ciência da Computação, o projeto enfatiza o desenvolvimento interdisciplinar em **mecânica, eletrônica e engenharia de software**. Além de construir um protótipo funcional, o ATOM busca estabelecer uma **plataforma de pesquisa** para experimentação em automação, interação humano–máquina e tecnologias assistivas.
+As atividades abrangem desde software e inteligência artificial até robótica, sistemas embarcados, eletrônica, visão computacional, engenharia mecânica e prototipagem física.
 
----
-
-### [Conheça a Equipe](../docs/members/members.MD)  
-
-<!-- ## 📄 Artigos Científicos e Documentos
-
-A fundamentação teórica, a arquitetura do sistema e a proposta experimental do Projeto ATOM estão descritas formalmente nos seguintes documentos de pesquisa:
-
-📘 **Projeto ATOM — Manipulação Robótica Baseada em Visão para Aplicações Educacionais e Experimentais**  
-📎 PDF: [docs/articles/ATOM_Project_Article.pdf](docs/articles/ATOM_Project_Article.pdf)
-
-Este artigo contextualiza o projeto no cenário atual de pesquisa em robótica e sistemas inteligentes e serve como referência para avaliação acadêmica e futuras extensões.
-
---- -->
-
-## 🎯 Objetivos de Pesquisa e Aprendizado
-
-O Projeto ATOM tem como objetivos:
-
-- Aplicar técnicas de visão computacional em sistemas robóticos reais  
-- Explorar designs mecânicos open source em contexto de pesquisa acadêmica  
-- Desenvolver habilidades práticas em robótica, automação e sistemas embarcados  
-- Incentivar prototipagem iterativa e validação experimental  
-- Servir de base para pesquisas futuras em sistemas assistivos e inteligentes  
+Cada projeto pode possuir sua própria arquitetura, repositório, fluxo de desenvolvimento e modelo de licenciamento, de acordo com seus objetivos e estágio de desenvolvimento.
 
 ---
 
-## 🖼️ Galeria do Projeto
+## 🚀 Projetos
 
-Imagens, diagramas e registros de desenvolvimento do Projeto ATOM estão disponíveis na galeria:
+### ♟️ ATOM Chess
 
-📷 Galeria: [docs/gallery/](../docs/gallery/readme.MD)
+O **ATOM Chess** é um sistema robótico autônomo de xadrez focado na integração de **visão computacional, programação de xadrez, inteligência artificial, robótica, planejamento de movimento e sistemas embarcados**.
 
-Esta pasta contém fotografias de protótipos, componentes impressos em 3D e montagens experimentais.
+O sistema é projetado para perceber um tabuleiro físico de xadrez, reconstruir seu estado, determinar movimentos de xadrez, planejar ações robóticas e executar fisicamente esses movimentos.
+
+O ATOM Chess é desenvolvido como uma plataforma multidisciplinar de pesquisa e é um dos principais projetos de software do ATOM Laboratory.
+
+Os componentes de software do ATOM Chess são open source sob a **MIT License**.
+
+O hardware físico atualmente é mantido separadamente e não é disponibilizado como hardware open source.
+
+Repositório: [ATOM Chess](https://github.com/Atom-Laboratory/atom-chess)
+
+### 🤖 ATOM InMoov
+
+O **ATOM InMoov** é um projeto de robótica baseado na plataforma humanoide **InMoov**, criada por Gaël Langevin.
+
+O projeto explora robótica, manipulação, projeto mecânico, eletrônica, sistemas embarcados, controle e interação humano-máquina por meio do desenvolvimento e experimentação com uma plataforma robótica física.
+
+O ATOM InMoov adapta e amplia conceitos da plataforma original InMoov de acordo com os objetivos de pesquisa e educação do laboratório.
+
+Projeto original: [InMoov](http://www.inmoov.fr/)
+
+Repositório: [ATOM InMoov](https://github.com/Atom-Laboratory)
 
 ---
 
-## 📜 Licença e Uso
+## 🎯 Áreas de Pesquisa
 
-Este projeto destina-se **exclusivamente a fins acadêmicos e educacionais**.  
-O uso comercial não é permitido.
+O ATOM Laboratory explora áreas como:
 
-Todas as contribuições e desenvolvimentos devem cumprir padrões éticos, princípios de privacidade de dados e diretrizes de responsabilidade social.
+* Visão computacional
+* Robótica
+* Inteligência artificial
+* Sistemas autônomos
+* Planejamento de movimento
+* Cinemática inversa
+* Sistemas embarcados
+* Eletrônica
+* Engenharia mecânica
+* Engenharia de software
+* Interação humano-máquina
+* Fabricação digital
+* Automação experimental
+
+As áreas específicas de pesquisa variam de acordo com cada projeto.
+
+---
+
+## 📚 Pesquisa e Educação
+
+O laboratório tem como objetivo apoiar tanto a **pesquisa científica quanto a formação prática em engenharia**.
+
+Os projetos são desenvolvidos por meio de experimentação, prototipagem, implementação, testes, benchmarking e validação iterativa.
+
+Sempre que apropriado, resultados experimentais, documentação técnica, datasets, software e materiais de pesquisa são disponibilizados para a comunidade.
+
+---
+
+## 📄 Publicações Científicas
+
+As pesquisas realizadas no ATOM Laboratory podem resultar em publicações científicas, artigos técnicos e estudos experimentais.
+
+### O Custo da Abstração no OpenCV: Análise Quantitativa de Desempenho em C++, Java e Python
+
+**Título em inglês:** *The Cost of Abstraction in OpenCV: Quantitative Performance Analysis in C++, Java, and Python*
+
+**Autor Principal:** Enzo Ribas
+
+O trabalho apresenta uma análise quantitativa do impacto de desempenho associado a diferentes bindings e camadas de abstração do OpenCV, comparando implementações em **C++, Java e Python**.
+
+📄 [Acessar o artigo](https://journals-sol.sbc.org.br/index.php/reic/article/view/7794)
+
+---
+
+## 👥 Equipe
+
+O ATOM Laboratory é desenvolvido por meio de colaboração multidisciplinar entre pessoas que atuam em engenharia de software, ciência da computação, robótica, visão computacional, eletrônica, engenharia mecânica e pesquisa científica.
+
+### [Conheça a equipe](../docs/members/members.MD)
+
+---
+
+## 🖼️ Galeria de Projetos
+
+Registros de desenvolvimento, protótipos, experimentos e documentação dos projetos estão disponíveis na galeria do laboratório.
+
+📷 [Galeria de Projetos](../docs/gallery/readme.MD)
+
+A galeria contém fotografias e registros de protótipos, experimentos, desenvolvimento de hardware e atividades de pesquisa.
 
 ---
 
 ## 🤝 Contribuições
 
-Colaborações acadêmicas são bem-vindas. Para contribuir:
+O ATOM Laboratory recebe contribuições, discussões técnicas, colaboração em pesquisa e participação da comunidade.
 
-1. Faça um fork deste repositório  
-2. Siga as diretrizes descritas em `CONTRIBUTING.md`  
-3. Envie um Pull Request com uma descrição técnica clara das suas alterações  
+As políticas de contribuição podem variar entre os projetos.
+
+Para projetos que aceitam contribuições externas, consulte as diretrizes de contribuição disponíveis no respectivo repositório.
+
+---
+
+## 📜 Licenciamento
+
+O licenciamento é definido individualmente para cada projeto e seus respectivos componentes.
+
+Projetos podem utilizar licenças diferentes de acordo com a natureza do material disponibilizado.
+
+Por exemplo, o **software do ATOM Chess é disponibilizado sob a MIT License**, enquanto seu hardware físico atualmente não é open source.
+
+Consulte sempre os arquivos de licença incluídos no projeto específico antes de utilizar, modificar, fabricar ou redistribuir seu conteúdo.
+
+Software, hardware, documentação, datasets e outros materiais de terceiros permanecem sujeitos às suas respectivas licenças.
 
 ---
 
 ## 📬 Contato
 
-Para dúvidas acadêmicas, sugestões ou propostas de colaboração:
+Para questões acadêmicas, colaboração em pesquisa ou informações gerais:
 
-**Enzo Rocha Leite Diniz Ribas**  
+**Enzo Rocha Leite Diniz Ribas**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/oenzoribas)
 
 ---
 
-> _“A tecnologia existe para ampliar a capacidade humana — a pesquisa existe para entender como.”_  
-> **Projeto ATOM**
+> *“Technology exists to extend human capability — research exists to understand how.”*
+
+**ATOM Laboratory**
